@@ -186,11 +186,11 @@ This project is a Java Spring Boot Rest API project. MySql is used as the databa
 
 I used ThunderBird for email configurations. I created email addresses on Local Host through Hmail Server.
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](Screenshot_2.png)
 
  I saved these email addresses using ThunderBird. That's it.
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](Screenshot_3.png)
 ## Distribution
 
 1- Clone the project to your local machine.
@@ -221,7 +221,7 @@ To run the project, update the following information in your application.propert
 
 Postman
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](Screenshot_1.png)
 ## Technologies
 
 **Framework:** Spring Boot
