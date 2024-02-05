@@ -191,6 +191,12 @@ I used ThunderBird for email configurations. I created email addresses on Local 
  I saved these email addresses using ThunderBird. That's it.
 
 ![Uygulama Ekran Görüntüsü](Screenshot_3.png)
+
+
+## Database Structure
+
+![Uygulama Ekran Görüntüsü](databasestructure.png)
+
 ## Distribution
 
 1- Clone the project to your local machine.
